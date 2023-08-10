@@ -18,7 +18,7 @@ const Menu = ({ food: { image, title, price, slug } }) => {
                 className="w-full"
               />
               <div className="px-6 py-4">
-                <div className="text-gray-200 dark:text-gray-200 font-bold text-xl mb-2">
+                <div className="text-black dark:text-gray-200 font-bold text-xl mb-2">
                    {title}
                 </div>
               </div>
